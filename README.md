@@ -17,7 +17,7 @@
     - If the image doesn't have the colors defined above, euclidian distance is used to get closest colors. This sucks.
     
 2. Create the map:
-   
+   Inside the root folder do:
     ```Heroes3Im2Map.exe <file_id>  <source_image> <output_file>```
   
     <file_id>: specifies the size of the Hota Map: "S", "M", "L", "XL", "H", "XH", "G"
